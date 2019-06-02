@@ -1,10 +1,10 @@
 'use strict';
 
-const defaultHooks = require('../../helpers/default-hooks');
-
 /**
- * Lifecycle callbacks for the `Article` model.
+ * Lifecycle callbacks for the `Category` model.
  */
+
+const defaultHooks = require('../../helpers/default-hooks');
 
 module.exports = {
   ...defaultHooks
