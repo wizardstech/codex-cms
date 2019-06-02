@@ -21,6 +21,15 @@
       "model": "user",
       "via": "articles",
       "plugin": "users-permissions"
+    },
+    "category": {
+      "model": "category",
+      "via": "articles"
+    },
+    "tags": {
+      "collection": "tag",
+      "via": "articles",
+      "dominant": true
     }
   }
 }

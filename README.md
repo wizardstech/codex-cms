@@ -1,3 +1,6 @@
-# api
+# Codex CMS
 
-A quick description of api.
+## Default credentials
+
+username: admin
+password: adminadmin
